@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "856a5f44-31a7-48ab-bd20-28d86a640ea4": {
+      "ProjectGuid": "856a5f44-31a7-48ab-bd20-28d86a640ea4",
+      "DisplayName": "ConnectSqlDapper",
+      "ColorIndex": 0
+    },
+    "c26147b3-7118-479d-8ed7-22544dfbc38c": {
+      "ProjectGuid": "c26147b3-7118-479d-8ed7-22544dfbc38c",
+      "DisplayName": "DoMainModel",
+      "ColorIndex": 1
+    },
+    "3ef0c4e3-198a-4c2c-979e-89732aa485ae": {
+      "ProjectGuid": "3ef0c4e3-198a-4c2c-979e-89732aa485ae",
+      "DisplayName": "School_Manager",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b3e5d6f5-e5f2-479e-9503-b862e706dab7": {
+      "ProjectGuid": "b3e5d6f5-e5f2-479e-9503-b862e706dab7",
+      "DisplayName": "ConnectSqlByDaper",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
